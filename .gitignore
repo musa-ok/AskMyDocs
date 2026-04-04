@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+ai_env/
+venv/
+env/
+.venv/
+.env
+.env.*
+qdrant_db/
+app/core/qdrant_db/
+data/qdrant_db/
+**qdrant_db**
+data/raw_pdfs/*.txt
+.DS_Store
